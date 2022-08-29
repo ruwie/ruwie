@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning c++
 - 📫 How to reach me:
 
-  https://www.facebook.com/ruwie.cortez.07
+   https://www.facebook.com/ruwie.cortez.07
   ruwiecortez@gmail.com
 
    
